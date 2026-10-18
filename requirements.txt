@@ -1,0 +1,7 @@
+# Python 3.8
+# torch 为 CPU 版本；GPU 环境请按 PyTorch 官网命令安装对应 CUDA 版本
+torch==2.4.1
+numpy==1.24.4
+jieba==0.42.1
+tqdm==4.70.1
+sympy==1.13.3
